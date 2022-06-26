@@ -4,7 +4,7 @@ This project is part of the Udacity FullStack JavaScript nanodegree. The code wa
 
 The project is available at
 
-http://udagramfrontendbucket.s3-website-us-east-1.amazonaws.com
+http://udagramfrontendbucket.s3-website-us-east-1.amazonaws.com 
 
 See additional documentation in the documentation folder.
 
@@ -12,37 +12,37 @@ See additional documentation in the documentation folder.
 
 ### Elastic Beanstalk Environment
 
-![Elastic Beanstalk Environment](./documentation/images/eb.png)
+![Elastic Beanstalk Environment](./documentation/images/01_ElasticBeanstalk.jpg)
 
 ### FrontEnd S3 Bucket
 
-![FrontEnd S3 Bucket](./documentation/images/frontend_s3.png)
+![FrontEnd S3 Bucket](./documentation/images/02_S3Bucket.jpg)
 
 ### Media S3 Bucket
 
-![Media S3 Bucket](./documentation/images/media_s3.png)
+![Media S3 Bucket](./documentation/images/04_S3BucketProperties.jpg)
 
 ### PostgreSQL RDS database
 
-![PostgreSQL RDS database](./documentation/images/rds.png)
+![PostgreSQL RDS database](./documentation/images/05_RDS.jpg)
 
 ### CircleCI Pipeline
 
-![CircleCI Pipeline](./documentation/images/pipeline1.png)
+![CircleCI Pipeline](./documentation/images/07_CircleCIPipeline.jpg)
 
 ![CircleCI Pipeline](./documentation/images/pipeline2.png)
 
 added secrets here
 
-![CircleCI Pipeline environment variables](./documentation/images/pipeline%20env.png)
+![CircleCI Pipeline environment variables](./documentation/images/09_CircleCIPipelineEnvironmentVariable.jpg)
 
 Schema
 
-![Pipeline Schema](./documentation/images/pipeline.png)
+![Pipeline Schema](./documentation/images/pipelineprocess.png)
 
 ### Architecture
 
-![Architecture](./documentation/images/architecture.png)
+![Architecture](./documentation/images/infrastructure.png)
 
 ## Built With
 
