@@ -8,9 +8,9 @@ jobs:
   build:
     # Limit to main branch
     filters:
-	  branches:
-	    only:
-		  - main
+      branches:
+         only:
+            - main
     docker:
       - image: "cimg/node:14.19" # Use NodeJS version 14.19 to be compatible with elastic beanstalk NodeJS
     steps:
