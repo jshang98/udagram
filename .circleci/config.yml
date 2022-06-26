@@ -9,7 +9,7 @@ jobs:
       - image: "cimg/node:14.19"
     steps:
       - checkout
-	  - run: node --version
+      - run: node --version
       - aws-cli/setup
       - eb/setup
       - run:
